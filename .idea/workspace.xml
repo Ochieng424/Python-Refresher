@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd93d6ea-b19f-4e05-9f2f-d1bdf188150e" name="Default Changelist" comment="" />
+    <list default="true" id="fd93d6ea-b19f-4e05-9f2f-d1bdf188150e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_title_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_title_method.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,51 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.string_find_method">
+    <configuration name="string_find_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_find_method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="string_title_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_title_method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.string_find_method" />
+        <item itemvalue="Python.string_title_method" />
         <item itemvalue="Python.variables" />
       </list>
     </recent_temporary>
@@ -81,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580054770948</updated>
       <workItem from="1580054773812" duration="1041000" />
-      <workItem from="1580055831236" duration="803000" />
+      <workItem from="1580055831236" duration="1709000" />
     </task>
     <servers />
   </component>
@@ -89,22 +138,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1300" height="160" key="GridCell.Tab.0.bottom" timestamp="1580055815849">
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom" timestamp="1580058030840">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580055815849" />
-    <state width="1300" height="160" key="GridCell.Tab.0.center" timestamp="1580055815848">
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580058030840" />
+    <state width="1300" height="160" key="GridCell.Tab.0.center" timestamp="1580058030840">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1580055815848" />
-    <state width="1300" height="160" key="GridCell.Tab.0.left" timestamp="1580055815848">
+    <state width="1300" height="160" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1580058030840" />
+    <state width="1300" height="160" key="GridCell.Tab.0.left" timestamp="1580058030840">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1580055815848" />
-    <state width="1300" height="160" key="GridCell.Tab.0.right" timestamp="1580055815848">
+    <state width="1300" height="160" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1580058030840" />
+    <state width="1300" height="160" key="GridCell.Tab.0.right" timestamp="1580058030840">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1580055815848" />
+    <state width="1300" height="160" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1580058030840" />
     <state x="187" y="34" width="992" height="733" key="SettingsEditor" timestamp="1580055033738">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
@@ -115,6 +164,8 @@
     <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1580055831606" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LearningPython$variables.coverage" NAME="variables Coverage Results" MODIFIED="1580055587377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPython$variables.coverage" NAME="variables Coverage Results" MODIFIED="1580056749415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPython$string_find_method.coverage" NAME="string_find_method Coverage Results" MODIFIED="1580058030827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPython$string_title_method.coverage" NAME="string_title_method Coverage Results" MODIFIED="1580056765083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
