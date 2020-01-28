@@ -9,3 +9,9 @@ print(subscribers)
 popped = subscribers.pop(0)
 print(popped)
 print(subscribers)
+
+# remove element from a list using its value
+subscribers = ['a@gmail.com', 'b@gmail.com', 'c@gmail.com', 'd@gmail.com']
+removed = subscribers.remove('c@gmail.com')
+print(removed)
+print(subscribers)
