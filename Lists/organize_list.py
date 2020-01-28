@@ -7,3 +7,8 @@ print(months)
 # Sort list in reversed alphabetical order
 months.sort(reverse=True)
 print(months)
+
+# Sort list temporarily
+months = ['jan', 'feb', 'march', 'april', 'may']
+print(sorted(months))
+print(months)
