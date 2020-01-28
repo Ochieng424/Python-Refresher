@@ -12,3 +12,8 @@ print(months)
 months = ['jan', 'feb', 'march', 'april', 'may']
 print(sorted(months))
 print(months)
+
+# Reverse a list
+months = ['jan', 'feb', 'march', 'april', 'may']
+months.reverse()
+print(months)
