@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd93d6ea-b19f-4e05-9f2f-d1bdf188150e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd93d6ea-b19f-4e05-9f2f-d1bdf188150e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -185,7 +184,7 @@
       <workItem from="1580141122223" duration="599000" />
       <workItem from="1580215423791" duration="3922000" />
       <workItem from="1580372742822" duration="2977000" />
-      <workItem from="1580894603941" duration="1463000" />
+      <workItem from="1580894603941" duration="1703000" />
     </task>
     <servers />
   </component>
@@ -193,22 +192,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1300" height="160" key="GridCell.Tab.0.bottom" timestamp="1580381621850">
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom" timestamp="1580897739518">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580381621850" />
-    <state width="1300" height="160" key="GridCell.Tab.0.center" timestamp="1580381621849">
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580897739518" />
+    <state width="1300" height="160" key="GridCell.Tab.0.center" timestamp="1580897739515">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1580381621849" />
-    <state width="1300" height="160" key="GridCell.Tab.0.left" timestamp="1580381621848">
+    <state width="1300" height="160" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1580897739515" />
+    <state width="1300" height="160" key="GridCell.Tab.0.left" timestamp="1580897739514">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1580381621848" />
-    <state width="1300" height="160" key="GridCell.Tab.0.right" timestamp="1580381621850">
+    <state width="1300" height="160" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1580897739514" />
+    <state width="1300" height="160" key="GridCell.Tab.0.right" timestamp="1580897739518">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1580381621850" />
+    <state width="1300" height="160" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1580897739518" />
     <state x="187" y="34" width="992" height="733" key="SettingsEditor" timestamp="1580055033738">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
@@ -228,7 +227,7 @@
     <SUITE FILE_PATH="coverage/LearningPython$string_find_method.coverage" NAME="string_find_method Coverage Results" MODIFIED="1580058030827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPython$range.coverage" NAME="range Coverage Results" MODIFIED="1580372953431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists/Numerical_Lists" />
     <SUITE FILE_PATH="coverage/LearningPython$pop_method.coverage" NAME="pop_method Coverage Results" MODIFIED="1580216727658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
-    <SUITE FILE_PATH="coverage/LearningPython$dict.coverage" NAME="dict Coverage Results" MODIFIED="1580897486871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
+    <SUITE FILE_PATH="coverage/LearningPython$dict.coverage" NAME="dict Coverage Results" MODIFIED="1580897739500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
     <SUITE FILE_PATH="coverage/LearningPython$string_title_method.coverage" NAME="string_title_method Coverage Results" MODIFIED="1580056765083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPython$if.coverage" NAME="if Coverage Results" MODIFIED="1580374823247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditions" />
   </component>
