@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd93d6ea-b19f-4e05-9f2f-d1bdf188150e" name="Default Changelist" comment="" />
+    <list default="true" id="fd93d6ea-b19f-4e05-9f2f-d1bdf188150e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
       <recent name="$PROJECT_DIR$/Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dict">
+  <component name="RunManager" selected="Python.get_method">
     <configuration name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,6 +52,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries/dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dictionaries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionaries/get_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,28 +126,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="looping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LearningPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists/looping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LearningPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_method" />
         <item itemvalue="Python.dict" />
         <item itemvalue="Python.in" />
         <item itemvalue="Python.if" />
         <item itemvalue="Python.range" />
-        <item itemvalue="Python.looping" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +186,7 @@
       <workItem from="1580141122223" duration="599000" />
       <workItem from="1580215423791" duration="3922000" />
       <workItem from="1580372742822" duration="2977000" />
-      <workItem from="1580894603941" duration="1703000" />
+      <workItem from="1580894603941" duration="2855000" />
     </task>
     <servers />
   </component>
@@ -192,22 +194,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1300" height="160" key="GridCell.Tab.0.bottom" timestamp="1580897739518">
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom" timestamp="1580898639529">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580897739518" />
-    <state width="1300" height="160" key="GridCell.Tab.0.center" timestamp="1580897739515">
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580898639529" />
+    <state width="1300" height="160" key="GridCell.Tab.0.center" timestamp="1580898639529">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1580897739515" />
-    <state width="1300" height="160" key="GridCell.Tab.0.left" timestamp="1580897739514">
+    <state width="1300" height="160" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1580898639529" />
+    <state width="1300" height="160" key="GridCell.Tab.0.left" timestamp="1580898639528">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1580897739514" />
-    <state width="1300" height="160" key="GridCell.Tab.0.right" timestamp="1580897739518">
+    <state width="1300" height="160" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1580898639528" />
+    <state width="1300" height="160" key="GridCell.Tab.0.right" timestamp="1580898639529">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1580897739518" />
+    <state width="1300" height="160" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1580898639529" />
     <state x="187" y="34" width="992" height="733" key="SettingsEditor" timestamp="1580055033738">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
@@ -219,15 +221,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LearningPython$organize_list.coverage" NAME="organize_list Coverage Results" MODIFIED="1580219063466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
-    <SUITE FILE_PATH="coverage/LearningPython$in.coverage" NAME="in Coverage Results" MODIFIED="1580376600583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
-    <SUITE FILE_PATH="coverage/LearningPython$variables.coverage" NAME="variables Coverage Results" MODIFIED="1580056749415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LearningPython$lists.coverage" NAME="lists Coverage Results" MODIFIED="1580216005400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPython$items_in_list.coverage" NAME="items_in_list Coverage Results" MODIFIED="1580219390741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
-    <SUITE FILE_PATH="coverage/LearningPython$looping.coverage" NAME="looping Coverage Results" MODIFIED="1580219699470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
+    <SUITE FILE_PATH="coverage/LearningPython$get_method.coverage" NAME="get_method Coverage Results" MODIFIED="1580898639516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
     <SUITE FILE_PATH="coverage/LearningPython$string_find_method.coverage" NAME="string_find_method Coverage Results" MODIFIED="1580058030827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPython$range.coverage" NAME="range Coverage Results" MODIFIED="1580372953431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists/Numerical_Lists" />
     <SUITE FILE_PATH="coverage/LearningPython$pop_method.coverage" NAME="pop_method Coverage Results" MODIFIED="1580216727658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
-    <SUITE FILE_PATH="coverage/LearningPython$dict.coverage" NAME="dict Coverage Results" MODIFIED="1580897739500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
+    <SUITE FILE_PATH="coverage/LearningPython$dict.coverage" NAME="dict Coverage Results" MODIFIED="1580898416170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
+    <SUITE FILE_PATH="coverage/LearningPython$in.coverage" NAME="in Coverage Results" MODIFIED="1580376600583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
+    <SUITE FILE_PATH="coverage/LearningPython$variables.coverage" NAME="variables Coverage Results" MODIFIED="1580056749415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPython$lists.coverage" NAME="lists Coverage Results" MODIFIED="1580216005400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearningPython$looping.coverage" NAME="looping Coverage Results" MODIFIED="1580219699470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
     <SUITE FILE_PATH="coverage/LearningPython$string_title_method.coverage" NAME="string_title_method Coverage Results" MODIFIED="1580056765083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPython$if.coverage" NAME="if Coverage Results" MODIFIED="1580374823247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditions" />
   </component>
