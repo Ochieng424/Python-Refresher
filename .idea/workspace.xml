@@ -186,7 +186,8 @@
       <workItem from="1580141122223" duration="599000" />
       <workItem from="1580215423791" duration="3922000" />
       <workItem from="1580372742822" duration="2977000" />
-      <workItem from="1580894603941" duration="4187000" />
+      <workItem from="1580894603941" duration="5332000" />
+      <workItem from="1581076684225" duration="459000" />
     </task>
     <servers />
   </component>
@@ -194,30 +195,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1300" height="160" key="GridCell.Tab.0.bottom" timestamp="1580900812905">
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom" timestamp="1580904013538">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580900812905" />
-    <state width="1300" height="160" key="GridCell.Tab.0.center" timestamp="1580900812904">
+    <state width="1300" height="160" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580904013538" />
+    <state width="1300" height="160" key="GridCell.Tab.0.center" timestamp="1580904013537">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1580900812904" />
-    <state width="1300" height="160" key="GridCell.Tab.0.left" timestamp="1580900812903">
+    <state width="1300" height="160" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1580904013537" />
+    <state width="1300" height="160" key="GridCell.Tab.0.left" timestamp="1580904013521">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1580900812903" />
-    <state width="1300" height="160" key="GridCell.Tab.0.right" timestamp="1580900812905">
+    <state width="1300" height="160" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1580904013521" />
+    <state width="1300" height="160" key="GridCell.Tab.0.right" timestamp="1580904013538">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1300" height="160" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1580900812905" />
+    <state width="1300" height="160" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1580904013538" />
     <state x="187" y="34" width="992" height="733" key="SettingsEditor" timestamp="1580055033738">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="187" y="34" width="992" height="733" key="SettingsEditor/0.30.1366.738@0.30.1366.738" timestamp="1580055033738" />
-    <state x="376" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1580894616064">
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog" timestamp="1581076682991">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1580894616064" />
+    <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1581076682991" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LearningPython$organize_list.coverage" NAME="organize_list Coverage Results" MODIFIED="1580219063466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists" />
@@ -231,7 +232,7 @@
     <SUITE FILE_PATH="coverage/LearningPython$variables.coverage" NAME="variables Coverage Results" MODIFIED="1580056749415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPython$lists.coverage" NAME="lists Coverage Results" MODIFIED="1580216005400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPython$delete.coverage" NAME="delete Coverage Results" MODIFIED="1580899401974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
-    <SUITE FILE_PATH="coverage/LearningPython$looping.coverage" NAME="looping Coverage Results" MODIFIED="1580900801926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
+    <SUITE FILE_PATH="coverage/LearningPython$looping.coverage" NAME="looping Coverage Results" MODIFIED="1580901096997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionaries" />
     <SUITE FILE_PATH="coverage/LearningPython$string_title_method.coverage" NAME="string_title_method Coverage Results" MODIFIED="1580056765083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearningPython$if.coverage" NAME="if Coverage Results" MODIFIED="1580374823247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditions" />
   </component>
